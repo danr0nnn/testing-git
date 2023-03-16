@@ -5,7 +5,7 @@
 }
 
 .main {
-  background: rosybrown;
+  background: olive;
   width: 100vw;
   height: 100vh;
 }
@@ -13,4 +13,5 @@
 h1 {
   text-align: center;
   padding: 2rem;
+  text-transform: uppercase;
 }
